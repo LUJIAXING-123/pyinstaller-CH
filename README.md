@@ -5,8 +5,8 @@
              <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-	<h1>Pyinstaller By JIAXING汉化版 Dev Beta1</h1>
-            <h2>欢迎使用Pyinstaller By JIAXING汉化版！</h2>
+	<h1>版本1.0 Public Beta 1</h1>
+            <h2>欢迎使用pyinstaller-CH！</h2>
             <h5>此工具可以将py文件转换成可执行文件</h5>
             <h5>没有Python编译器也可以运行哦！</h5>
             <h5>新做的游戏，送亲友？送朋友？用它！</h5>
